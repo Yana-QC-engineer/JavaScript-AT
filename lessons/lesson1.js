@@ -19,7 +19,7 @@ console.log(occupation)
 
 //data
 var middleName = "Olivia" //string
-var ageOfBorther = 25 //number
+var ageOfBrother = 25 //number
 var isSheMarried = false //boolean
 var yearsInMarriage = null //null
 var numberOfCars = undefined //undefined
